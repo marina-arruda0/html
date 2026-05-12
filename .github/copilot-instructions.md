@@ -1,7 +1,7 @@
 # Copilot Instructions for HTML Study Project
 
 ## Project Overview
-This is a personal HTML study repository containing numbered HTML files (01- to 09-) demonstrating various HTML concepts. Each file focuses on a specific topic, written in Portuguese.
+This is a personal HTML study repository containing numbered HTML files (01- to 10-) demonstrating various HTML concepts. Each file focuses on a specific topic, written in Portuguese.
 
 ## File Naming Convention
 - Use format: `NN-topic.html` where NN is a two-digit number (e.g., 01-titulos.html)
